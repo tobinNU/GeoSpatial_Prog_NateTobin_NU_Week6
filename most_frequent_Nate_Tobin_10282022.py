@@ -18,22 +18,22 @@ def most_frequent(sample):
     return t
 
 
-# In[39]:
+# In[45]:
 
 
-most_frequent("Hello break down the letter")
+most_frequent("Hello break down the letters for me please.")
 
 
-# In[40]:
+# In[46]:
 
 
-most_frequent("Si Señor")
+most_frequent("Es un placer conocerte, ¿Cómo te llamas?")
 
 
-# In[41]:
+# In[44]:
 
 
-most_frequent("Bonjour Madame")
+most_frequent(" Toute personne a droit à l'éducation. L'éducation doit être gratuite, au moins en ce qui concerne l'enseignement élémentaire et fondamental.")
 
 
 # In[42]:
